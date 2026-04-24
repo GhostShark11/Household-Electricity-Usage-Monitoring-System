@@ -1,2 +1,2 @@
 # Household-Electricity-Usage-Monitoring-System
-For UTS 
+For UAS 
